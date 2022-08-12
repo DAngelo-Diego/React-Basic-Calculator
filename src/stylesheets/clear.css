@@ -4,17 +4,17 @@
   display: flex;
   flex: 1 1;
   background-color: #8a8a8a;
-  margin-bottom: 4px;
+  margin: 4px;
   justify-content: center;
   align-items: center;
-  color: rgb(46, 46, 46);
+  color: rgb(71, 72, 85);
   cursor: pointer;
   user-select: none;
   border-radius: 15px;
-  box-shadow: 2px 2px 1px #2b2b31c9;
+  box-shadow: 2px 2px 1px #4e4e63c9;
 }
 
 .b-clear:hover {
-  background-color: rgba(255, 0, 0, 0.806);
+  background-color: rgba(255, 0, 21, 0.829);
   color: rgba(247, 247, 247, 0.904);
 }

@@ -18,12 +18,12 @@
 
 .c-container {
   width: 410px;
-  height: 580px;
+  height: 570px;
   padding: 4px;
-  background-color: #989aa493;
+  background-color: #8b8fa7;
   border-radius: 15px;
   border: 2px solid rgba(68, 68, 68, 0.361);
-  box-shadow: 4px 2px 10px 2px #47464671;
+  box-shadow: 4px 2px 4px #47464645;
 }
 
 .row {
