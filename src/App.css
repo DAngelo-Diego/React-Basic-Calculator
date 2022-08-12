@@ -11,7 +11,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  background-color: rgba(233, 233, 233, 0.998);
+  background-color: #e6ebff;
   align-items: center;
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -20,9 +20,9 @@
   width: 410px;
   height: 570px;
   padding: 4px;
-  background-color: #8b8fa7;
+  background-color: #1e4375;
   border-radius: 15px;
-  border: 2px solid rgba(68, 68, 68, 0.361);
+  border: 2px solid rgba(93, 93, 93, 0.361);
   box-shadow: 4px 2px 4px #47464645;
 }
 

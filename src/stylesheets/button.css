@@ -5,29 +5,31 @@
   justify-content: center;
   align-items: center;
   font-size: 35px;
-  background-color: #de0529;
+  background-color: #e72031;
   color: #f5f5f5;
   border-radius: 25px;
-  border: 2px solid rgba(150, 59, 59, 0.913);
+  border: 2px solid rgba(73, 59, 150, 0);
   margin: 4px;
-  box-shadow: 2px 2px 1px #404453ac;
+  box-shadow: 2px 2px 1px #0e183bf8;
   cursor: pointer;
   user-select: none;
 }
 
 .operator {
-  background-color: #c00021;
+  background-color: #c60d1c;
   color: rgb(94, 7, 7);
-  border: 2px solid rgb(132, 38, 38);
+  border: 2px solid rgba(16, 8, 79, 0.829);
   border-radius: 15px;
 }
 
 .button-container:hover {
   color: rgb(255, 255, 255);
-  box-shadow: 1px 1px 4px 2px #4044535e;
+  background-color: #c60d1c;
+  box-shadow: 1px 1px 4px 2px #03103c;
 }
 
 .operator:hover {
   color: rgb(255, 255, 255);
-  box-shadow: 1px 1px 4px 2px #40445355;
+  background-color: #ac0e1b;
+  box-shadow: 1px 1px 4px 2px #0a1743;
 }

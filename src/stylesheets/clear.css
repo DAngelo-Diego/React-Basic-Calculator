@@ -3,7 +3,7 @@
   font-size: 2em;
   display: flex;
   flex: 1 1;
-  background-color: #8a8a8a;
+  background-color: #dddde6;
   margin: 4px;
   justify-content: center;
   align-items: center;
@@ -15,6 +15,6 @@
 }
 
 .b-clear:hover {
-  background-color: rgba(255, 0, 21, 0.829);
-  color: rgba(247, 247, 247, 0.904);
+  background-color: rgb(243, 243, 243);
+  color: rgb(255, 31, 31);
 }
