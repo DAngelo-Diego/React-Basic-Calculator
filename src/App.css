@@ -17,13 +17,13 @@
 }
 
 .c-container {
-  width: 430px;
-  height: 590px;
+  width: 410px;
+  height: 580px;
   padding: 4px;
-  background-color: #354584;
+  background-color: #989aa493;
   border-radius: 15px;
-  border: 2px solid rgba(241, 238, 238, 0);
-  box-shadow: 4px 4px 1px #1f2954;
+  border: 2px solid rgba(68, 68, 68, 0.361);
+  box-shadow: 4px 2px 10px 2px #47464671;
 }
 
 .row {
